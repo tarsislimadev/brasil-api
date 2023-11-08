@@ -10,7 +10,67 @@ To get data from Brasil API (1.0.0)
 
 ## how to install
 
+### .env file
+
+```
+DATABASE=./data
+```
+
 ## how to use
+
+### banks
+
+```
+bash ./src/banks.sh 
+```
+
+### bank
+
+```
+bash ./src/bank.sh 231
+```
+
+### cnpj
+
+```
+bash ./src/cnpj.sh 19131243000197
+```
+
+### ddd
+
+```
+bash ./src/ddd.sh 11
+```
+
+### participants of pix
+
+```
+bash ./src/pix.participants.sh 
+```
+
+### taxas
+
+```
+bash ./src/taxas.sh 
+```
+
+### feriados
+
+```
+bash ./src/feriados.sh 2023
+```
+
+### cep
+
+```
+bash ./src/cep.sh 13506563
+```
+
+### isbn
+
+```
+bash ./src/isbn.sh 9788545702870
+```
 
 ## license
 
