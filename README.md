@@ -27,19 +27,19 @@ bash ./src/banks.sh
 ### bank
 
 ```
-bash ./src/bank.sh 231
+bash ./src/bank.sh 9
 ```
 
 ### cnpj
 
 ```
-bash ./src/cnpj.sh 19131243000197
+bash ./src/cnpj.sh 99999999999999
 ```
 
 ### ddd
 
 ```
-bash ./src/ddd.sh 11
+bash ./src/ddd.sh 99
 ```
 
 ### participants of pix
@@ -63,13 +63,13 @@ bash ./src/feriados.sh 2023
 ### cep
 
 ```
-bash ./src/cep.sh 13506563
+bash ./src/cep.sh 99999999
 ```
 
 ### isbn
 
 ```
-bash ./src/isbn.sh 9788545702870
+bash ./src/isbn.sh 9999999999999
 ```
 
 ## license
