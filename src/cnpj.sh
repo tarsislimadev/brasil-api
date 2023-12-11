@@ -4,7 +4,7 @@
 
 . datetime.sh
 
-cnpj="${1}"
+cnpj=$( . numbers.sh "${1}" )
 
 ## runners
 
